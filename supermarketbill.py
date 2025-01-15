@@ -62,7 +62,7 @@ if inp=='yes':
       print(75*"-")
       print(50*" ","finalamount:",'Rs',finalamount)
       print(75*"-")
-      print(25*" ","thank you bunny visit again")
+      print(25*" ","thank you visit again")
       print(75*"-")
 
 
